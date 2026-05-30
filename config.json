@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingepdate",
+        "uuid": 7655640,
+        "checksum": "fishuq"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
